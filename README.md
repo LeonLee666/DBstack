@@ -1,4 +1,14 @@
 # GeekforDB
+
+## Concurency Control
+- https://github.com/yxymit/DBx1000
+- https://github.com/yxymit/Sundial
+- https://github.com/mitdbg/deneva
+- https://github.com/stephentu/silo
+- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
+- https://github.com/Cavalia/Cavalia
+- https://github.com/ooibc88/gam
+
 ## Index
 - https://github.com/yingjunwu/DBMS-Indexology
 - https://github.com/yingjunwu/IndexZoo
@@ -12,22 +22,13 @@
 - https://github.com/wangziqi2016/index-microbench
 - https://github.com/efficient/SuRF
 
-## Concurency Control
-- https://github.com/yxymit/DBx1000
-- https://github.com/yxymit/Sundial
-- https://github.com/mitdbg/deneva
-- https://github.com/stephentu/silo
-- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
-- https://github.com/Cavalia/Cavalia
-- https://github.com/ooibc88/gam
+## Join
+- https://www.systems.ethz.ch/node/334
+- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 ## SQL
 - https://github.com/hyrise/sql-parser
 - https://github.com/TimoKersten/db-engine-paradigms
-
-## Join
-- https://www.systems.ethz.ch/node/334
-- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 ## Prototype
 - https://github.com/cmu-db/terrier
