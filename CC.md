@@ -8,4 +8,5 @@
 
 ## CICADA
 
-## Deuteronomy
+## [Deuteronomy](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
+
