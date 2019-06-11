@@ -17,7 +17,6 @@
 - https://github.com/mitdbg/deneva
 - https://github.com/Cavalia/Cavalia
 - https://github.com/stephentu/silo
-- https://github.com/mitdbg/deneva
 - https://github.com/yingjunwu/peloton/tree/mvcc-epoch
 
 ## SQL
