@@ -25,6 +25,10 @@
 - https://github.com/hyrise/sql-parser
 - https://github.com/TimoKersten/db-engine-paradigms
 
+## Join
+- https://www.systems.ethz.ch/node/334
+- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
+
 ## Prototype
 - https://github.com/tellproject/tell
 - https://github.com/hyrise/hyrise
