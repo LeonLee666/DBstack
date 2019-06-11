@@ -26,11 +26,11 @@
 - https://github.com/google/leveldb
 - https://github.com/MonetDB/MonetDB
 
-## Blog
-- http://www.cs.cmu.edu/~pavlo/
-- https://yingjunwu.github.io/
-- http://justinlevandoski.org/publications.html
-- https://db.in.tum.de/~leis/index.shtml?lang=en
+## People
+- [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)
+- [yingjunwu](https://yingjunwu.github.io/)
+- [Justin Levandoski](http://justinlevandoski.org/publications.html)
+- [Viktor Leis](https://db.in.tum.de/~leis/index.shtml?lang=en)
 
 ## Course
 - https://15721.courses.cs.cmu.edu/
