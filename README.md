@@ -23,7 +23,7 @@
 - https://github.com/MonetDB/MonetDB
 
 ## Blog
-http://www.cs.cmu.edu/~pavlo/
-https://yingjunwu.github.io/
-http://justinlevandoski.org/publications.html
-https://db.in.tum.de/~leis/index.shtml?lang=en
+- http://www.cs.cmu.edu/~pavlo/
+- https://yingjunwu.github.io/
+- http://justinlevandoski.org/publications.html
+- https://db.in.tum.de/~leis/index.shtml?lang=en
