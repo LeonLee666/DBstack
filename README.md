@@ -29,6 +29,7 @@
 
 ## People
 - [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)
+- [Ben chin ooi](https://www.comp.nus.edu.sg/~ooibc/papers.html)
 - [yingjunwu](https://yingjunwu.github.io/)
 - [Justin Levandoski](http://justinlevandoski.org/publications.html)
 - [Viktor Leis](https://db.in.tum.de/~leis/index.shtml?lang=en)
