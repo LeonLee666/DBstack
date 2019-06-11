@@ -15,6 +15,10 @@
 - https://github.com/stephentu/silo
 - https://github.com/mitdbg/deneva
 
+## SQL
+- https://github.com/hyrise/sql-parser
+- https://github.com/TimoKersten/db-engine-paradigms
+
 ## Prototype
 - https://github.com/tellproject/tell
 - https://github.com/cmu-db/peloton
