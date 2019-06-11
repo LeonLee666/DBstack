@@ -12,10 +12,12 @@
 - https://github.com/efficient/SuRF
 
 ## Concurency Control
-- https://github.com/Cavalia/Cavalia
 - https://github.com/yxymit/DBx1000
+- https://github.com/yxymit/Sundial
+- https://github.com/Cavalia/Cavalia
 - https://github.com/stephentu/silo
 - https://github.com/mitdbg/deneva
+- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
 
 ## SQL
 - https://github.com/hyrise/sql-parser
