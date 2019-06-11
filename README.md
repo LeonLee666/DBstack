@@ -26,6 +26,8 @@
 
 ## Prototype
 - https://github.com/tellproject/tell
+- https://github.com/hyrise/hyrise
+- https://github.com/microsoft/FASTER
 - https://github.com/cmu-db/peloton
 - http://research.cs.wisc.edu/shore-mt/
 - https://github.com/google/leveldb
