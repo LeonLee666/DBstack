@@ -1,4 +1,4 @@
-# GeekforDB
+# Storage Manager
 
 ## Concurency Control
 - https://github.com/yxymit/DBx1000
@@ -22,6 +22,7 @@
 - https://github.com/wangziqi2016/index-microbench
 - https://github.com/efficient/SuRF
 
+# Query Manager
 ## Join
 - https://www.systems.ethz.ch/node/334
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
