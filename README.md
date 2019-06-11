@@ -30,6 +30,7 @@
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 ## Prototype
+- https://github.com/cmu-db/terrier
 - https://github.com/tellproject/tell
 - https://github.com/hyrise/hyrise
 - https://github.com/microsoft/FASTER
