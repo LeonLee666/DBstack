@@ -4,6 +4,7 @@
 - https://github.com/yxymit/DBx1000
 - https://github.com/yxymit/Sundial
 - https://github.com/mitdbg/deneva
+- https://github.com/efficient/cicada-engine
 - https://github.com/stephentu/silo
 - https://github.com/yingjunwu/peloton/tree/mvcc-epoch
 - https://github.com/Cavalia/Cavalia
