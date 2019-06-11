@@ -14,6 +14,7 @@
 ## Concurency Control
 - https://github.com/yxymit/DBx1000
 - https://github.com/yxymit/Sundial
+- https://github.com/mitdbg/deneva
 - https://github.com/Cavalia/Cavalia
 - https://github.com/stephentu/silo
 - https://github.com/mitdbg/deneva
