@@ -31,3 +31,6 @@
 - https://yingjunwu.github.io/
 - http://justinlevandoski.org/publications.html
 - https://db.in.tum.de/~leis/index.shtml?lang=en
+
+## Course
+- https://15721.courses.cs.cmu.edu/
