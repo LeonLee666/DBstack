@@ -43,11 +43,11 @@
 - https://github.com/MonetDB/MonetDB
 
 ## People
-- [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)
-- [Ben chin ooi](https://www.comp.nus.edu.sg/~ooibc/papers.html)
-- [yingjunwu](https://yingjunwu.github.io/)
-- [Justin Levandoski](http://justinlevandoski.org/publications.html)
-- [Viktor Leis](https://db.in.tum.de/~leis/index.shtml?lang=en)
+- [Andy Pavlo@CMU](http://www.cs.cmu.edu/~pavlo/)
+- [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
+- [yingjunwu@IBM](https://yingjunwu.github.io/)
+- [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
+- [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
 
 ## Course
 - https://15721.courses.cs.cmu.edu/
