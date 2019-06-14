@@ -50,5 +50,6 @@
 - [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
 - [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
 
-## Course
+## Learning
 - https://15721.courses.cs.cmu.edu/
+- http://mysql.taobao.org/monthly/
