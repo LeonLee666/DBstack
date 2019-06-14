@@ -24,6 +24,9 @@
 - https://github.com/wangziqi2016/index-microbench
 - https://github.com/efficient/SuRF
 
+# Recovery
+- https://github.com/bombe-org/FrequentSnapshot
+- https://github.com/bombe-org/RedisPersistent
 # Query Manager
 ## Join
 - https://www.systems.ethz.ch/node/334
