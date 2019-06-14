@@ -51,5 +51,5 @@
 - [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
 
 ## Learning
-- https://15721.courses.cs.cmu.edu/
+- https://15721.courses.cs.cmu.edu/spring2019/schedule.html
 - http://mysql.taobao.org/monthly/
