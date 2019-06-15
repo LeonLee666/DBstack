@@ -1,4 +1,4 @@
-# Storage Manager
+# 1 Storage Manager
 
 ## Concurency Control
 - https://github.com/yxymit/DBx1000
@@ -24,10 +24,10 @@
 - https://github.com/wangziqi2016/index-microbench
 - https://github.com/efficient/SuRF
 
-# Recovery
+## Recovery
 - https://github.com/bombe-org/FrequentSnapshot
 - https://github.com/bombe-org/RedisPersistent
-# Query Manager
+# 2 Query Manager
 ## Join
 - https://www.systems.ethz.ch/node/334
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
