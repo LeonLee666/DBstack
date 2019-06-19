@@ -51,6 +51,7 @@
 - [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
 - [yingjunwu@IBM](https://yingjunwu.github.io/)
 - [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
+- [David B. Lomet@MicroSoft](https://www.microsoft.com/en-us/research/people/lomet/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Flomet%2F) ([DBLP](https://dblp.uni-trier.de/pers/hd/l/Lomet:David_B=))
 - [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
 
 ## Learning
