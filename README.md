@@ -53,7 +53,7 @@
 - [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
 - [David B. Lomet@MicroSoft](https://www.microsoft.com/en-us/research/people/lomet/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Flomet%2F) ([DBLP](https://dblp.uni-trier.de/pers/hd/l/Lomet:David_B=))
 - [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
-- [alfons-kemper@taleau](https://research.tableau.com/user/alfons-kemper)
+- [alfons-kemper@taleau](https://db.in.tum.de/~kemper/index.shtml?lang=en)
 ## Learning
 - https://15721.courses.cs.cmu.edu/spring2019/schedule.html
 - http://mysql.taobao.org/monthly/
