@@ -1,7 +1,9 @@
-# SQL Interface
+# SQL
 
-## SQL
+## Parser
 - https://github.com/hyrise/sql-parser
+
+## Compile-based execution
 - https://github.com/TimoKersten/db-engine-paradigms
 
 ## Join Operator
