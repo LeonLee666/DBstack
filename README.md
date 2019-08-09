@@ -1,4 +1,13 @@
-# 1 Storage Manager
+# SQL Interface
+## Join
+- https://www.systems.ethz.ch/node/334
+- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
+
+## SQL
+- https://github.com/hyrise/sql-parser
+- https://github.com/TimoKersten/db-engine-paradigms
+
+# Storage Engine
 
 ## Concurency Control
 - https://github.com/yxymit/DBx1000
@@ -27,14 +36,7 @@
 ## Recovery
 - https://github.com/bombe-org/FrequentSnapshot
 - https://github.com/bombe-org/RedisPersistent
-# 2 Query Manager
-## Join
-- https://www.systems.ethz.ch/node/334
-- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
-## SQL
-- https://github.com/hyrise/sql-parser
-- https://github.com/TimoKersten/db-engine-paradigms
 
 ## Prototype
 - https://github.com/cmu-db/terrier
