@@ -1,11 +1,14 @@
 # SQL Interface
-## Join
-- https://www.systems.ethz.ch/node/334
-- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 ## SQL
 - https://github.com/hyrise/sql-parser
 - https://github.com/TimoKersten/db-engine-paradigms
+
+## Join Operator
+- https://www.systems.ethz.ch/node/334
+- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
+
+
 
 # Storage Engine
 
