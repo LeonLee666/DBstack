@@ -1,11 +1,15 @@
-Postgres-backend  top level key function call.
+Postgres-backend  top level function-tree.
 
-main(){
-	PostmasterMain(){
-		Serverloop(){
-			BackendStartup(){
-				PostgreMain(){
-					exec_simple_query(){
+main(){  //程序入口
+	PostmasterMain(){   // master 入口
+		Serverloop(){    // select 监听
+			BackendStartup(){    // each session startup a new process
+				PostgresMain(){      // backend 入口
+					ReadCommand()    // 获取sql string
+					exec_simple_query(){     // 执行DML查询
+						start_xact_command()
+						pg_parse_query()
+						pg_analyze_and_rewrite()						
 
 						pg_plan_queries(){
 							pg_plan_query(){
@@ -54,6 +58,10 @@ main(){
 								}
 							}
 						}
+
+						CreatePortal()
+						PortalDefineQuery()
+						PortalStart()
 
 
 
@@ -110,9 +118,22 @@ main(){
 								}
 							}
 						}
+
+						PortalDrop()
+
+						finish_xact_command()
+						EndCommand()
 					}
 				}
 			}
+
+
+			SysLogger_Start()
+			StartBackgroundWriter()
+			StartWalWriter()
+			StartAutoVacLauncher()
+			pgarch_start()
+			pgstat_start()
 		}
 	}
 }
