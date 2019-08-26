@@ -8,8 +8,20 @@ main(){  //程序入口
 					ReadCommand()    // 获取sql string
 					exec_simple_query(){     // 执行DML查询
 						start_xact_command()
-						pg_parse_query()
-						pg_analyze_and_rewrite()						
+						pg_parse_query(){
+							raw_parser()    // parse
+						}
+						pg_analyze_and_rewrite(){
+							parse_analyze(){
+								transformSelectStmt() {
+									transformFromClause()
+									transformTargetList()
+								}
+							}
+							parse_rewrite_query(){
+								QueryRewrite()
+							}
+						}
 
 						pg_plan_queries(){
 							pg_plan_query(){
