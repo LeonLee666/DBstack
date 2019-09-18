@@ -3,7 +3,7 @@
 ## Parser
 - https://github.com/hyrise/sql-parser
 
-## Compile-based execution
+## Compilation
 - https://github.com/TimoKersten/db-engine-paradigms
 
 ## Join Operator
