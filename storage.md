@@ -12,3 +12,6 @@
 - [Deuteronomy](http://justinlevandoski.org/papers/CIDR2011_Deuteronomy.pdf) 
 [vldb15](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf) 微软提出的一种分离事务层和存储层的架构。
 - [HybridGC](https://15721.courses.cs.cmu.edu/spring2019/papers/05-mvcc3/p1307-lee.pdf)
+
+
+![x](https://liliang.s3.ap-northeast-2.amazonaws.com/figure/liliang.jpg)
