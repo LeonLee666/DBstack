@@ -1,5 +1,5 @@
 Postgres-backend  top level function-tree.
-
+// opt + exe
 main(){  //程序入口
 	PostmasterMain(){   // master 入口
 		Serverloop(){    // select 监听
