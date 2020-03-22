@@ -2,6 +2,8 @@
 
 ## Parser
 - https://github.com/hyrise/sql-parser
+- https://github.com/winkyao/lemon
+- https://github.com/pingcap/parser
 
 ## Compilation
 - https://github.com/TimoKersten/db-engine-paradigms
