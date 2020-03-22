@@ -1,8 +1,8 @@
 # SQL
 
 ## Parser
+- https://github.com/winkyao/lemon (**export from sqlite3**)
 - https://github.com/hyrise/sql-parser
-- https://github.com/winkyao/lemon
 - https://github.com/pingcap/parser
 
 ## Compilation
