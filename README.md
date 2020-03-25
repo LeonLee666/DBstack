@@ -1,31 +1,21 @@
-# SQL
+# Part I: SQL
 
 ## Parser
 - https://github.com/winkyao/lemon (**export from sqlite3**)
 - https://github.com/hyrise/sql-parser
 - https://github.com/pingcap/parser
 
-## Compilation
+## Executor
+### Compilation
 - https://github.com/TimoKersten/db-engine-paradigms
 
-## Join Operator
+### Join Operator
 - https://www.systems.ethz.ch/node/334
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 
 
-# Storage Engine
-
-## Concurency Control
-- https://github.com/yxymit/DBx1000
-- https://github.com/yxymit/Sundial
-- https://github.com/mitdbg/deneva
-- https://github.com/efficient/cicada-engine
-- https://github.com/stephentu/silo
-- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
-- https://github.com/Cavalia/Cavalia
-- https://github.com/ooibc88/gam
-- https://github.com/yujjjang/dbms
+# Part II: Storage
 
 ## Index
 - https://github.com/yingjunwu/DBMS-Indexology
@@ -40,12 +30,23 @@
 - https://github.com/wangziqi2016/index-microbench
 - https://github.com/efficient/SuRF
 
+## Concurency Control
+- https://github.com/yxymit/DBx1000
+- https://github.com/yxymit/Sundial
+- https://github.com/mitdbg/deneva
+- https://github.com/efficient/cicada-engine
+- https://github.com/stephentu/silo
+- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
+- https://github.com/Cavalia/Cavalia
+- https://github.com/ooibc88/gam
+- https://github.com/yujjjang/dbms
+
 ## Recovery
 - https://github.com/bombe-org/FrequentSnapshot
 - https://github.com/bombe-org/RedisPersistent
 
 
-## Prototype
+# Part III: Prototype
 - https://github.com/cmu-db/terrier
 - https://github.com/tellproject/tell
 - https://github.com/hyrise/hyrise
@@ -55,6 +56,7 @@
 - https://github.com/google/leveldb
 - https://github.com/MonetDB/MonetDB
 
+# Part IV: Resource
 ## People
 - [Andy Pavlo@CMU](http://www.cs.cmu.edu/~pavlo/)
 - [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
