@@ -11,6 +11,7 @@
 
 ### Join Operator
 - https://www.systems.ethz.ch/node/334
+- https://github.com/gregrahn/join-order-benchmark
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 
