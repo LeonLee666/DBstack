@@ -5,6 +5,10 @@
 - https://github.com/hyrise/sql-parser
 - https://github.com/pingcap/parser
 
+## Optimizer
+- http://pages.cs.wisc.edu/~navin/research/download/index.html
+- http://web.cecs.pdx.edu/~len/Columbia/
+
 ## Executor
 ### Compilation
 - https://github.com/TimoKersten/db-engine-paradigms
