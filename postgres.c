@@ -1,9 +1,10 @@
-Postgres-backend  top level function-tree.
-// opt + exe
-main(){  //程序入口
-	PostmasterMain(){   // master 入口
-		Serverloop(){    // select 监听
+Postgres-backend  top-level function call stack.
+
+main(){  //pg程序入口 backend/main/main.c
+	PostmasterMain(){   // postmaster 入口
+		Serverloop(){    // select 监听			
 			BackendStartup(){    // each session startup a new process
+				pid = fork_process();  // fork的子进程调用BackendRun,内部接着调用PostgresMain
 				PostgresMain(){      // backend 入口
 					ReadCommand()    // 获取sql string
 					exec_simple_query(char* sql[]){     // 执行DML查询
