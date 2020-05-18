@@ -2,9 +2,14 @@ Postgres-backend  top-level function call stack.
 
 main(){  //pg程序入口 backend/main/main.c
 	PostmasterMain(){   // postmaster 入口
+		SysLogger_Start()
+		pgstat_init()
+		autovac_init()
+		maybe_start_bgworkers()
 		Serverloop(){    // select 监听			
-			BackendStartup(){    // each session startup a new process
+			Select() + BackendStartup(){    // 运行select机制，
 				pid = fork_process();  // fork的子进程调用BackendRun,内部接着调用PostgresMain
+				BackendRun()
 				PostgresMain(){      // backend 入口
 					ReadCommand()    // 获取sql string
 					exec_simple_query(char* sql[]){     // 执行DML查询
@@ -175,14 +180,6 @@ main(){  //pg程序入口 backend/main/main.c
 					}
 				}
 			}
-
-
-			SysLogger_Start()
-			StartBackgroundWriter()
-			StartWalWriter()
-			StartAutoVacLauncher()
-			pgarch_start()
-			pgstat_start()
 		}
 	}
 }
