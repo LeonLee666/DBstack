@@ -6,10 +6,11 @@ main(){  //pg程序入口 backend/main/main.c
 		pgstat_init()
 		autovac_init()
 		maybe_start_bgworkers()
-		Serverloop(){    // select 监听			
-			Select() + BackendStartup(){    // 运行select机制，
-				pid = fork_process();  // fork的子进程调用BackendRun,内部接着调用PostgresMain
-				BackendRun()
+		Serverloop(){    
+			Select() // 运行select机制，
+			ConnCreate()  // 建立连接
+			BackendStartup(){    // 拉起sql task
+				fork_process()+ BackendRun()  // fork的子进程调用BackendRun,内部接着调用PostgresMain
 				PostgresMain(){      // backend 入口
 					ReadCommand()    // 获取sql string
 					exec_simple_query(char* sql[]){     // 执行DML查询
