@@ -1,24 +1,4 @@
-# Part I: SQL
-
-## Parser
-- https://github.com/winkyao/lemon (**export from sqlite3**)
-- https://github.com/hyrise/sql-parser
-- https://github.com/pingcap/parser
-
-## Optimizer
-- http://pages.cs.wisc.edu/~navin/research/download/index.html
-- http://web.cecs.pdx.edu/~len/Columbia/
-
-## Executor
-### Compilation
-- https://github.com/TimoKersten/db-engine-paradigms
-
-### Join Operator
-- https://www.systems.ethz.ch/node/334
-- https://github.com/gregrahn/join-order-benchmark
-- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
-
-# Part II: Storage
+# Part I: Storage
 
 ## Index
 - https://github.com/yingjunwu/DBMS-Indexology
@@ -54,6 +34,25 @@
 - https://github.com/bombe-org/FrequentSnapshot
 - https://github.com/bombe-org/RedisPersistent
 
+# Part II: SQL
+
+## Parser
+- https://github.com/winkyao/lemon (**export from sqlite3**)
+- https://github.com/hyrise/sql-parser
+- https://github.com/pingcap/parser
+
+## Optimizer
+- http://pages.cs.wisc.edu/~navin/research/download/index.html
+- http://web.cecs.pdx.edu/~len/Columbia/
+
+## Executor
+### Compilation
+- https://github.com/TimoKersten/db-engine-paradigms
+
+### Join Operator
+- https://www.systems.ethz.ch/node/334
+- https://github.com/gregrahn/join-order-benchmark
+- https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 # Part III: Prototype
 - https://github.com/cmu-db/terrier
