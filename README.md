@@ -20,6 +20,8 @@ B Tree
 - https://github.com/wangziqi2013/BwTree
 - https://github.com/kohler/masstree-beta
 
+Others
+
 - https://github.com/efficient/libcuckoo
 - https://github.com/efficient/SuRF
 
@@ -37,6 +39,7 @@ B Tree
 - https://github.com/mitdbg/deneva
 - https://github.com/efficient/cicada-engine
 - https://github.com/stephentu/silo
+- https://github.com/readablesystems/sto
 - https://github.com/yingjunwu/peloton/tree/mvcc-epoch
 - https://github.com/Cavalia/Cavalia
 - https://github.com/ooibc88/gam
