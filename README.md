@@ -1,5 +1,18 @@
 # Part I: Storage
 
+## Concurency Control
+- https://github.com/sfu-dis/ermia
+- https://github.com/yxymit/DBx1000
+- https://github.com/yxymit/Sundial
+- https://github.com/mitdbg/deneva
+- https://github.com/efficient/cicada-engine
+- https://github.com/stephentu/silo
+- https://github.com/readablesystems/sto
+- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
+- https://github.com/Cavalia/Cavalia
+- https://github.com/ooibc88/gam
+- https://github.com/yujjjang/dbms
+
 ## Index
 
 TestBed
@@ -32,19 +45,6 @@ Others
 - https://github.com/greg7mdp/parallel-hashmap
 - https://github.com/bingmann/stx-btree
 
-
-## Concurency Control
-- https://github.com/sfu-dis/ermia
-- https://github.com/yxymit/DBx1000
-- https://github.com/yxymit/Sundial
-- https://github.com/mitdbg/deneva
-- https://github.com/efficient/cicada-engine
-- https://github.com/stephentu/silo
-- https://github.com/readablesystems/sto
-- https://github.com/yingjunwu/peloton/tree/mvcc-epoch
-- https://github.com/Cavalia/Cavalia
-- https://github.com/ooibc88/gam
-- https://github.com/yujjjang/dbms
 
 ## Recovery
 - https://github.com/bombe-org/FrequentSnapshot
