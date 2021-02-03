@@ -1,6 +1,6 @@
 # Part I: Storage
 
-## Concurency Control
+## topic1: Concurency Control
 - https://github.com/sfu-dis/ermia
 - https://github.com/yxymit/DBx1000
 - https://github.com/yxymit/Sundial
@@ -13,7 +13,7 @@
 - https://github.com/ooibc88/gam
 - https://github.com/yujjjang/dbms
 
-## Index
+## topic2: Index
 
 TestBed
 
@@ -46,9 +46,10 @@ Others
 - https://github.com/bingmann/stx-btree
 
 
-## Recovery
+## topic3: Recovery
 - https://github.com/bombe-org/FrequentSnapshot
 - https://github.com/bombe-org/RedisPersistent
+- https://github.com/yuxiamit/DBx1000_logging
 
 # Part II: SQL
 
