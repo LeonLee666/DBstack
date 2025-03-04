@@ -108,3 +108,5 @@ Others
 
 # Part IV: VectorDB
 - https://github.com/datawhalechina/what-is-vs
+- https://github.com/SJTU-DMTai/Awesome-graph-based-ann
+- https://github.com/Microsoft/DiskANN
