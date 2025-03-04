@@ -1,3 +1,27 @@
+# Resource
+## People
+- [Andy Pavlo@CMU](http://www.cs.cmu.edu/~pavlo/)
+- [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
+- [yingjunwu@IBM](https://yingjunwu.github.io/)
+- [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
+- [David B. Lomet@MicroSoft](https://www.microsoft.com/en-us/research/people/lomet/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Flomet%2F) ([DBLP](https://dblp.uni-trier.de/pers/hd/l/Lomet:David_B=))
+- [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
+- [alfons-kemper@taleau](https://db.in.tum.de/~kemper/index.shtml?lang=en)
+- [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang/pubs.html)
+- [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/)
+- [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/pubs)
+- [Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/)
+
+## Institution
+- [CPU@ETH](https://www.systems.ethz.ch/projects/multicores)
+- [FPGA@ETH](https://www.systems.ethz.ch/fpga)
+
+## Learning
+- https://15721.courses.cs.cmu.edu/spring2019/schedule.html
+- http://mysql.taobao.org/monthly/
+
+
+
 # Part I: Storage
 
 ## topic1: Concurency Control
@@ -81,20 +105,4 @@ Others
 - https://github.com/google/leveldb
 - https://github.com/MonetDB/MonetDB
 
-# Part IV: Resource
-## People
-- [Andy Pavlo@CMU](http://www.cs.cmu.edu/~pavlo/)
-- [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
-- [yingjunwu@IBM](https://yingjunwu.github.io/)
-- [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
-- [David B. Lomet@MicroSoft](https://www.microsoft.com/en-us/research/people/lomet/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Flomet%2F) ([DBLP](https://dblp.uni-trier.de/pers/hd/l/Lomet:David_B=))
-- [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
-- [alfons-kemper@taleau](https://db.in.tum.de/~kemper/index.shtml?lang=en)
 
-## Institution
-- [CPU@ETH](https://www.systems.ethz.ch/projects/multicores)
-- [FPGA@ETH](https://www.systems.ethz.ch/fpga)
-
-## Learning
-- https://15721.courses.cs.cmu.edu/spring2019/schedule.html
-- http://mysql.taobao.org/monthly/
