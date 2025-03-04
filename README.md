@@ -1,7 +1,7 @@
 # Resource
 ## People
 - [Andy Pavlo@CMU](http://www.cs.cmu.edu/~pavlo/)
-- [Viktor Leis@TUM](https://db.in.tum.de/~leis/index.shtml?lang=en)
+- [Viktor Leis](https://www.cs.cit.tum.de/dis/team/prof-dr-viktor-leis/)
 - [Thomas Neumann](https://db.in.tum.de/people/sites/neumann/index.shtml?lang=en)
 - [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang/pubs.html)
 - [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/)
