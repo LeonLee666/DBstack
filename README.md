@@ -7,6 +7,7 @@
 - [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/)
 - [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/pubs)
 - [Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/)
+- [王肇国](https://ipads.se.sjtu.edu.cn/zhaoguo_wang)
 - [Ben chin ooi@NUS](https://www.comp.nus.edu.sg/~ooibc/papers.html)
 - [yingjunwu@IBM](https://yingjunwu.github.io/)
 - [Justin Levandoski@MicroSoft](http://justinlevandoski.org/publications.html)
