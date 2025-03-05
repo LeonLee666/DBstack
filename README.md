@@ -94,7 +94,7 @@ Others
 - https://github.com/MikeXydas/JoinOperator_SIGMOD2018
 
 # Part III: Prototype
-- https://github.com/cmu-db/terrier
+- https://github.com/cmu-db/noisepage
 - https://github.com/tellproject/tell
 - https://github.com/hyrise/hyrise
 - https://github.com/microsoft/FASTER
